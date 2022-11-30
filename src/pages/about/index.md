@@ -2,12 +2,13 @@
 templateKey: 'about-page'
 path: /about
 title: About me
-
+---
 👋 Hi! I am Dhruv! I work at McKinsey & Company.
 
-There are multiple Internet properties that I have created and you can find something interesting if you give a minute to read. 
+There are multiple internet properties that I have created and you can find something interesting if you give a minute to read. 
 
 I spend my time on the internet with the purpose of learning something new.
+
 ---
 ### 💼 Work
 I'm working as a Sr. Data Scientist with McKinsey. Since the begininnig of my proffessional career I've worked in multiple data-centric roles.
