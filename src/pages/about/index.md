@@ -2,19 +2,33 @@
 templateKey: 'about-page'
 path: /about
 title: About me
+
+👋 Hi! I am Dhruv! I work at McKinsey & Company.
+
+There are multiple Internet properties that I have created and you can find something interesting if you give a minute to read. 
+
+I spend my time on the internet with the purpose of learning something new.
+
 ---
-### Work
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### 💼 Work
+I'm working as a Sr. Data Scientist with McKinsey. Since the begininnig of my proffessional career I've worked in multiple data-centric roles.
 
-### Education
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+You can read more about my proffessional journey at my [Linkedin profile](https://www.linkedin.com/in/dhruv-agg94/)
 
-### Certifications/MOOCs
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### 🏫 Education
+I graduated in 2016 with a Bachelors' degree in engineering with a major in Electronics & Communication engineering.
 
-### Hobbies
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### 📜 Certifications/MOOCs
+Recently, I completed the AWS Certified Cloud Practitioner certification.
 
-### Interests
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+I have attended some MOOCs from NPTEL/IITs. Some of them are 
+- Blockchain: Use cases and Architecture
+- Social Network Analysis using Python
+- Business Analytics and Data Mining 
 
+
+### 🌱 Hobbies
+I'm a gardener at heart. I love to spend time at my kitchen garden while feeding my beloved stray cats. 
+
+### ✨ Interests
+I'm deeply fascinated by several topics but International Relations & Sustainable Development are some of them. 
